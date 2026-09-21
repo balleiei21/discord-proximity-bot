@@ -12,7 +12,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # ----------------------------------------------------
 # 📌 ID ผู้ใช้ที่ได้รับอนุญาตให้ใช้คำสั่งได้คนเดียว
 # ----------------------------------------------------
-ALLOWED_USER_ID = 123456789012345678  # เปลี่ยนเป็น Discord User ID ของคุณ
+ALLOWED_USER_ID = 933529869487321161  # เปลี่ยนเป็น Discord User ID ของคุณ
 
 NEW_SERVER_NAME = "🍓 Strawberry Cake Shop 🎂"
 
