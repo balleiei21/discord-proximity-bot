@@ -12,7 +12,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # ----------------------------------------------------
 # 📌 ใส่ Discord User ID ของคุณตรงนี้
 # ----------------------------------------------------
-ALLOWED_USER_ID = 123456789012345678  
+ALLOWED_USER_ID = 933529869487321161  
 
 NEW_SERVER_NAME = "NEXORA SHOP"
 
