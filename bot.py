@@ -11,7 +11,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # ใส่ Discord User ID ของคุณที่ได้รับอนุญาตให้กดสั่ง
-ALLOWED_USER_ID = 933529869487321161  
+ALLOWED_USER_ID = 932890657113145394  
 NEW_SERVER_NAME = "Minecraft Magic School RP"
 
 # ----------------------------------------------------
